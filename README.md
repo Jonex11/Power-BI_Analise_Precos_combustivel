@@ -14,7 +14,7 @@ Quantas amostras foram realizadas em todo o período?
 Os preços tendem a ser maiores em qual período do mês?
 
 - Iformações sobre o Projeto:
-O projeto sera dividido em 5 partes onde destrincharei cada uma das etapas realizadas e como cheguei aos indicadores.
+O projeto sera dividido em 2 partes onde destrincharei cada uma das etapas realizadas e como cheguei aos indicadores.
 Colocarei disponivel os arquivos usados no projeto.
 
 - Tecnologias Usadas:
