@@ -1,1 +1,13 @@
+Parte 1 do Trabalho:
+
+Tecnologias usadas nessa parte:
+- Power Querry & Power BI
+
+O que foi Feito:
+
+- tratativa de dados usando o Power Querry para tratar colunas, remoção de colunas desnecessarias para a Analise dos indicadores e erros de dados duplicados.
+- Tratar colunas classificando como tabela fato e dimensão e mesclando na tabela fatos.   
+- Feita a modelagem de dados, usando a cardinalidade dos relacionamentos.
+- Usei Dax opra criar as medidas necessarias para suplir os indicadores, foram usados as funções: All, Average, Calculated, CountRows, Filter, Max e DistinctCount.
+- Uso de Variaiveis para criação de medidas avançadas.
 
